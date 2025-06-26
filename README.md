@@ -1,8 +1,8 @@
 # Visualization and Storytelling using Tableau (IDAN7005)
 
-Welcome to the official repository for the MSc Data Analytics unit **Visualization and Storytelling using Tableau (IDAN7005)**, delivered at **BSBI** in collaboration with the **University of Chichester**.
+Welcome to the official repository for the MSc Data Analytics unit **Visualization and Storytelling using Tableau (IDAN7005)**. 
 
-This Level 7 course explores modern data visualization techniques, visual storytelling principles, and dashboard creation using **Tableau**, with supportive analytical tasks in **Python** (using `Matplotlib` and `Seaborn`).
+This Level 7 course explores modern data visualization techniques, visual storytelling principles, and dashboard creation using **Tableau**.
 
 ---
 
